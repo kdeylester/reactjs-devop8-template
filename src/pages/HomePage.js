@@ -10,8 +10,9 @@ const HomePage = () => {
                 <div className="container pt-4   order-2 order-md-1">
                     <h1 className="display-2 header-title">
                         {" "}
-                      Welcome to EarthDX Test Trigger Build 
+                      Welcome to EarthDX 
                     </h1>
+                    <h1>If it work it mean it work</h1>
                     <p> We are a team of passionate people whose goal is to improve everyone's life through disruptive products. We build great products to solve your business problems.</p>
                     <div className="d-flex pt-5">
                         <button className="btn btn-success px-4 py-2">
