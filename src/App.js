@@ -21,28 +21,6 @@ function App() {
 
 
 
-  let a= 10; 
-  let b = 230; 
-  let c = "hello world"; 
-  let d = "testing"
-
-  let databaseUsername= "admin"
-  let databasePassword= "password@2345"
-
-  const demo1 =()=>{
-    console.log("Testing Testing")
-    console.log("Just A TEST ")
-  }
-
-  const demo2 =()=>{
-   console.log("Testing Testing")
-    console.log("Just A TEST ")
-  }
-
-  const demo3 =()=>{
-   console.log("Testing Testing")
-    console.log("Just A TEST ")
-  }
   const [isValidated, setIsValidated] = useState(
     localStorage.getItem("tokens") ? true : false
   )
