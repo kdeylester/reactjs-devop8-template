@@ -10,7 +10,7 @@ const HomePage = () => {
                 <div className="container pt-4   order-2 order-md-1">
                     <h1 className="display-2 header-title">
                         {" "}
-                      Welcome to EarthDX 
+                      Welcome to EarthDX K8S Argocd II
                     </h1>
                     <h1>Hehe Everything Work Now</h1>
                     <p> We are a team of passionate people whose goal is to improve everyone's life through disruptive products. We build great products to solve your business problems.</p>
